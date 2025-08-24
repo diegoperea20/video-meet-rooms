@@ -132,7 +132,7 @@ export default function Home() {
           <div className="text-center">
             <div className="bg-blue-500/20 rounded-full p-4 w-16 h-16 mx-auto mb-4 flex items-center justify-center">
               <a
-                href="https://github.com/diegoperea20"
+                href="https://github.com/diegoperea20/video-meet-rooms"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="block"

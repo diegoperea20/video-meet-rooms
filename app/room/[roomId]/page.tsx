@@ -444,7 +444,7 @@ export default function Room() {
           </Button> */}
 
           <a
-            href="https://github.com/diegoperea20"
+            href="https://github.com/diegoperea20/video-meet-rooms"
             target="_blank"
             rel="noopener noreferrer"
             className="rounded-full w-12 h-12 p-0 flex items-center justify-center border-2 bg-slate-600 hover:bg-slate-700 border-slate-500 text-white transition-all"
