@@ -82,8 +82,8 @@ Make sure you have installed on your system:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/videomeet.git
-cd videomeet
+git clone https://github.com/diegoperea20/video-meet-rooms.git
+cd  video-meet-rooms
 ```
 
 ### 2. Install Dependencies
